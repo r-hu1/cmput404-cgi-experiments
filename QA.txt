@@ -6,4 +6,8 @@
 
 4)Standard input
 
+5)Set-Cookie: loggedin= "your id"
+
+6)Cookie: loggedin=true
+
 
